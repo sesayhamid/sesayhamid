@@ -4,7 +4,7 @@
 
 - <b>Sql Fundamentals 12 - Oracle Coursework Projects</b>
   - [Google Drive Link](https://drive.google.com/drive/folders/1xr2yhzx57eMyI8939fe7VKvQ-py1A2ex?usp=sharing)
-- <b>Server Management & Security Scanning Project - SBTS Group (Summer Internship)</b>
+- <b>Server Management & Security Scanning Project - SBTS Group</b>
   - [Google Drive Link](https://drive.google.com/drive/folders/1s1rLxf_mfPTYPkU-Ei8oi-4Gptp5AWZo?usp=share_link)
 - <b>Ride Sharing Delivery System (Senior Capstone)</b>
   - [Final Video Presentation Link](https://ncaandt-my.sharepoint.com/:p:/r/personal/njboutross_ncat_edu/Documents/Fall%202024/CST%20499/Final%20Report/Final%20Report%20PPT.pptx?d=w9d11cabdb7114ede8b4f38f4bc61ee4b&csf=1&web=1&e=WbP40a)
